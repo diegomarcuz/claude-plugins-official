@@ -1139,6 +1139,18 @@
       "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev"
     },
     {
+      "name": "mercadopago",
+      "description": "Mercado Pago full-product integration toolkit. Expert agent routes to 13 product skills. Hybrid architecture: skills provide integration intelligence, MCP provides live API data.",
+      "category": "development",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mercadopago/mercadopago-claude-marketplace",
+        "path": "plugins/mercadopago",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/mercadopago/mercadopago-claude-marketplace/tree/main/plugins/mercadopago"
+    },
+    {
       "name": "microsoft-docs",
       "description": "Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more.",
       "category": "development",
